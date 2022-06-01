@@ -1,4 +1,5 @@
-# quantization-demo
+# Quantization Demo
+
 This repository contains simple notebooks to demonstrate post-training quantizaation using [qkeras](https://github.com/google/qkeras). 
 
 ## Demo on Google Colaboratory
