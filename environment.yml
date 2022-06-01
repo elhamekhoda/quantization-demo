@@ -1,4 +1,4 @@
-name: hls4ml-tutorial
+name: quant-demo
 channels:
   - conda-forge
 dependencies:
